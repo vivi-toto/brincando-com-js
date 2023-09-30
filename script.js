@@ -1,13 +1,5 @@
-// o que são vetores ou arrays??
+console.log("Digite o nome do seu jogador");
 
-// como declarar um array
-// let array = ['string', 1, true];
-// console.log(array);
+let nickname = "Fernandinha mestre dos pokemons";
 
-// um array pode guardar vários tipos de dados
-
-let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];
-console.log(array);
-
-// forEach
-array.forEach(function(item, index){console.log(item, index)})
+console.log("Bem vinda, " + nickname); 
