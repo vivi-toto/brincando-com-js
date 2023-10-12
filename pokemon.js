@@ -1,6 +1,6 @@
 let notificacao ="Pokemon GO diz: ";
 
-console.log(notificacao +  "tem um novo pokemin na sua região");
+console.log(notificacao +  "tem um novo pokemOn na sua região");
 console.log(notificacao + "você foi derrotado por um líder");
 
 notificacao = "Digimon GO";
