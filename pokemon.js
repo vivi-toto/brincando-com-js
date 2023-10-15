@@ -6,3 +6,5 @@ console.log(notificacao + "você foi derrotado por um líder");
 notificacao = "Digimon GO";
 
 console.log("O nome do jogo agora é: " + notificacao);
+
+// esse codigo é sobre a diferença entre variaveis e constantes;
